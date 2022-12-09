@@ -1,0 +1,3 @@
+- no outside programs are required
+- When nothing pops up press enter to go onto the next part of the dialouge
+- yes or no, and when choosing the char to follow must be lowercase
